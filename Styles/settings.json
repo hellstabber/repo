@@ -1,0 +1,11 @@
+{
+    "name": "hellstabber's repo",
+    "description": "tweak stuff",
+    "tint": "",
+    "cname": "hellstabber.github.io/repo",
+    "maintainer": {
+        "name": "Eren",
+        "email": "ek.xcodeproject@gmail.com"
+    },
+    "automatic_git": "false"
+}
